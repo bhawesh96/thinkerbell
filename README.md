@@ -31,17 +31,11 @@ app/
 ```
 ## Available Scripts
 
-#### `npm start`
+`npm start` : Runs the app in the development mode on port 3000
 
-Runs the app in the development mode on port 3000
+`npm run build` : Builds the app for production to the `build` folder.<br>
 
-#### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-
-#### `npm run deploy`
-
-Builds the app for production to the `build` folder and then deploys to the gh-pages branch<br>
+`npm run deploy` : Builds the app for production to the `build` folder and then deploys to the gh-pages branch<br>
 
 ## Installing a Dependency
 
